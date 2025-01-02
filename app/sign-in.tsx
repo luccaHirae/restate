@@ -18,7 +18,7 @@ const SignIn = () => {
       >
         <Image
           source={images.onboarding}
-          className='w-full h-4/6'
+          className='w-full h-3/5'
           resizeMode='contain'
         />
 
